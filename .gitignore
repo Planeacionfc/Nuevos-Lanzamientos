@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C runtime libraries
+*.dll
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+eggs/
+*.egg-info/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Environment
+.env
+venv/
